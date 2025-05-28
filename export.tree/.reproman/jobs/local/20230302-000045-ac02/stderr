@@ -1,0 +1,9 @@
+Warning: Permanently added 'c154-071' (ECDSA) to the list of known hosts.
+WARNING (03/02/23 20:57:21): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.5276607.hostlist.8KjbtReU to get hosts
+starting job on c154-071
+starting job on c154-171
+starting job on c157-111
+starting job on c157-132
+starting job on c173-214
+starting job on c175-021
